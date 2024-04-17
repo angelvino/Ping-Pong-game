@@ -18,3 +18,11 @@ Here’s a breakdown of its functionality and features:
 The code uses several Windows-specific functions (`_kbhit()`, `_getch()`, `system("cls")`, `Sleep()`) for input detection, screen clearing, and timing, making it tailored for execution in a Windows command prompt environment. It showcases basic game development concepts such as game loops, input handling, collision detection, and screen drawing in a low-level programming context.
 
  Enjoy your game !!!
+**OUTPUT CONSOLE **
+![image](https://github.com/angelvino/Ping-Pong-game/assets/109471128/897f3bf8-2f03-498e-91aa-8a4408966f3b)
+
+![image](https://github.com/angelvino/Ping-Pong-game/assets/109471128/9696e512-d709-485f-ba69-fce1056d5b4c)
+
+![image](https://github.com/angelvino/Ping-Pong-game/assets/109471128/1a9cd358-c713-4787-ae29-b8245cf2e759)
+
+
